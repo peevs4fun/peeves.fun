@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: Peeves's Blog
+subtitle: '记录人生的思考'
 description: ''
 keywords:
-author: John Doe
-language: en
+author: Peeves
+language: zh-CN  # 指定语言，会影响主题显示的语言，按需修改
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: http://peeves.fun
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -97,7 +97,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: fluid  # 指定主题
+
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
