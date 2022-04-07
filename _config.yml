@@ -4,12 +4,12 @@
 
 # Site
 title: Peeves's Blog
-subtitle: '记录人生的思考'
-description: ''
-keywords:
+subtitle: '记录思考'
+description: '一个前端工程师的自我总结'
+keywords: '前端,web'
 author: Peeves
 language: zh-CN  # 指定语言，会影响主题显示的语言，按需修改
-timezone: ''
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
