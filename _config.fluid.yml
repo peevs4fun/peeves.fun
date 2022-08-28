@@ -869,11 +869,12 @@ about:
   subtitle:
   avatar: /images/peeves_avatar.jpg
   name: "Peeves"
-  intro: "前端，猫奴"
+  intro: "前端工程师 人生路上的修行者"
   # 更多图标可从 https://hexo.fluid-dev.com/docs/icon/ 查找，`class` 代表图标的 css class，添加 `qrcode` 后，图标不再是链接而是悬浮二维码
   # More icons can be found from https://hexo.fluid-dev.com/docs/en/icon/  `class` is the css class of the icon. If adding `qrcode`, The icon is no longer a link, but a hovering QR code
   icons:
     - { class: "iconfont icon-github-fill", link: "https://github.com/i33558493", tip: "GitHub" }
+    - { class: "iconfont icon-mail", link: "mailto:laicanwen08@hotmail.com", tip: "Email" }
 
 
 #---------------------------
